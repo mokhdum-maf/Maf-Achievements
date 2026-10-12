@@ -41,7 +41,7 @@ Listing all my Achievements.
 - ***Camp Participation***
   - BdPhO Online Camp
 
-> <font size="7"><b>☉ Bangladesh Junior Science Olympiad (BdJSO) 2024 [</b></font>
+> <font size="7"><b>☉ Bangladesh Junior Science Olympiad (BdJSO) 2024 </b></font>
 
 ‣ **Achievements :** National Winner, Camp Selection Test Winner & Selected for Team Selection Camp
 - Category :  Secondary
