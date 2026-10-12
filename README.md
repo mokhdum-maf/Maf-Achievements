@@ -56,11 +56,14 @@ Listing all my Achievements.
 
 > <font size="7"><b>☉ Physics Brawl Online 2024</b></font>
 
-‣ **Achievements :**
-- Category : 
-- ***Regional Round***
-  - **Venue :**
-  - **Date :**
+‣ **Achievements :** Ranked in total
+1260th place and ranked
+270th place in C category
+- Category : C
+- **Team :** Short Circuit
+- **Team Members :** Md Mokhdum Amin Fahim, Shihab Mahmud Shoumo, Afeid AI Radit & Tanzim Mahamud Ohi
+- **Format :** Online
+- **Date :** 20th of Nov 2024
 ---
 ## 2025
 ---
