@@ -66,6 +66,25 @@ Listing all my Achievements.
 - **Date :** 20th of Nov 2024
 ---
 ## 2025
+> <font size="7"><b>☉ Apex Astro Olympiad 2025 </b></font>
+
+‣ **Achievements :** National Winner, Camper & Champion in Camp
+- Category : Junior
+- ***Regional Round***
+  - **Venue :**
+  - **Date :**
+- ***National Selection Round***
+  - **Venue :**
+  - **Date :**
+- ***Closed Camp***
+  - **Venue :**
+  - **Date :**
+
+> <font size="7"><b>☉ Open World Astronomy Olympiad(OWAO) 2025 </b></font>
+‣ **Achievements :** Gold medalist & title "Diamond of the People’s Republic of Bangladesh"
+- **Venue :** Sirius Federal Territory, Russia
+- **Date :** 20-27 September, 2025
+
 ---
 ## 2026
 ---
