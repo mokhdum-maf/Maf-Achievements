@@ -106,17 +106,13 @@ Listing all my Achievements.
 ## 2026
 ---
 ## 2027
----
 
+> <font size="7"><b>☉ Loading... </b></font>
 
- 
-___
-
-
-#########################################################################################################
-> <font size="7"><b>☉ htcb </b></font>
 ‣ **Achievements :**
 - Category : 
 - ***Regional Round***
   - **Venue :**
   - **Date :**
+---
+
