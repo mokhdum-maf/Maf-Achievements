@@ -81,10 +81,27 @@ Listing all my Achievements.
   - **Date :**
 
 > <font size="7"><b>☉ Open World Astronomy Olympiad(OWAO) 2025 </b></font>
+
 ‣ **Achievements :** Gold medalist & title "Diamond of the People’s Republic of Bangladesh"
 - **Venue :** Sirius Federal Territory, Russia
 - **Date :** 20-27 September, 2025
 
+> <font size="7"><b>☉ Physics Brawl Online 2025</b></font>
+
+‣ **Achievements :** Ranked 270th place in C category
+- Category : C
+- **Team :** Cosmic Ghost
+- **Team Members :** Md Mokhdum Amin Fahim
+- **Format :** Online
+- **Date :** 26th of Nov 2025
+
+> <font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2026 </b></font>
+
+‣ **Achievements :** Regional Winner
+- Category : C
+- ***Regional Round***
+  - **Venue :**
+  - **Date : %%%, 2025**
 ---
 ## 2026
 ---
