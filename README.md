@@ -22,6 +22,7 @@ I studied in class 7 at Police Line Secondary School, Jashore.
 ## 2023 
 
 I studied in class 8 at Police Line Secondary School, Jashore.
+
 ---
 > <font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2023</b></font>
 
@@ -37,6 +38,7 @@ I studied in class 8 at Police Line Secondary School, Jashore.
 ##  2024 
 
 I studied in class 9 at Police Line Secondary School, Jashore.
+
 ---
 > <font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2024</b></font>
 
@@ -78,6 +80,7 @@ I studied in class 9 at Police Line Secondary School, Jashore.
 ## 2025
 
 I studied in class 10 at Police Line Secondary School, Jashore.
+
 ---
 > <font size="7"><b>☉ Apex Astro Olympiad 2025 </b></font>
 
@@ -118,7 +121,7 @@ I studied in class 10 at Police Line Secondary School, Jashore.
 ---
 ## 2026
 
-I passed the SSC exam amd completed my high school education from Police Line Secondary School, Jashore. I admitted into Notre Dame College, Dhaka as a 11 grade student on September.
+I passed the SSC exam and completed my secondary education at Police Lines Secondary School, Jashore. I was admitted to Notre Dame College, Dhaka as an 11th grade student in September.
 ---
 
 > <font size="7"><b>☉ Beamline for Schools (BL4S) 2026</b></font>
