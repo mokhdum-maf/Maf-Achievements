@@ -130,7 +130,7 @@ I passed the SSC exam and completed my secondary education at Police Lines Secon
 ‣ **Achievements :** Shortlisted among the 50 best proposals
 - **Team :** SPECTRA
 - **Team Members :** Md Mokhdum Amin Fahim, Mst Halima Sultana, Afaeid Al Radit, Md Muztahid Khan Ruhani, Sheik Imtehan Mahmud Sharon
-- **Research Proposal:** Space Pollution Evaluation and Classification via Transition Radiation Analysis *[[📂 Project Repo](https://github.com/mokhdum-maf/SPECTRA-BL4S-2026)]*
+- **Research Proposal:** Space Pollution Evaluation and Classification via Transition Radiation Analysis  *[[📂 Project Repo](https://github.com/mokhdum-maf/SPECTRA-BL4S-2026)]*
 
 - **Format :** Online
 - **Date :**
@@ -149,6 +149,7 @@ I passed the SSC exam and completed my secondary education at Police Lines Secon
   - **Venue :** Notre Dame College, Dhaka
   - **Date :** October, 2026
 
+---
 ---
 ## 2027
 
