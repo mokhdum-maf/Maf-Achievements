@@ -122,6 +122,7 @@ I studied in class 10 at Police Line Secondary School, Jashore.
 ## 2026
 
 I passed the SSC exam and completed my secondary education at Police Lines Secondary School, Jashore. I was admitted to Notre Dame College, Dhaka as an 11th grade student in September.
+
 ---
 
 > <font size="7"><b>☉ Beamline for Schools (BL4S) 2026</b></font>
@@ -129,11 +130,12 @@ I passed the SSC exam and completed my secondary education at Police Lines Secon
 ‣ **Achievements :** Shortlisted among the 50 best proposals
 - **Team :** SPECTRA
 - **Team Members :** Md Mokhdum Amin Fahim, Mst Halima Sultana, Afaeid Al Radit, Md Muztahid Khan Ruhani, Sheik Imtehan Mahmud Sharon
-- **Research Proposal:** Space Pollution Evaluation and Classification via Transition Radiation Analysis
+- **Research Proposal:** Space Pollution Evaluation and Classification via Transition Radiation Analysis [Paper ↗](https://github.com/mokhdum-maf/SPECTRA-BL4S-2026)
+
 - **Format :** Online
 - **Date :**
 
-> <font size="7"><b>☉ 5<sup>th<\sup> Notre Dame Intra College Science Competition 2026</b></font>
+> <font size="7"><b>☉ 5<sup>th</sup> Notre Dame Intra College Science Competition 2026</b></font>
 
 ‣ **Achievements :** 2nd in Physics Olympiad
   - **Arranged by :** Notre Dame Science Club
