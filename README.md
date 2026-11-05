@@ -112,7 +112,22 @@ Listing all my Achievements.
 - **Team Members :** Md Mokhdum Amin Fahim, Mst Halima Sultana, Afaeid Al Radit, Md Muztahid Khan Ruhani, Sheik Imtehan Mahmud Sharon
 - **Research Proposal:** Space Pollution Evaluation and Classification via Transition Radiation Analysis
 - **Format :** Online
-- **Date :** 
+- **Date :**
+
+> <font size="7"><b>☉ 5^{th} Notre Dame Intra College Science Competition 2026</b></font>
+
+‣ **Achievements :** 2nd in Physics Olympiad
+  - **Arranged by :** Notre Dame Science Club
+  - **Venue :** Notre Dame College, Dhaka
+  - **Date :** October, 2026
+
+> <font size="7"><b>COSMOTERRIUM 2.0</b></font>
+
+‣ **Achievements :** 1st in Star Mapping ; 3rd in Astronomy Olympiad : 3rd in Aerospace Olympiad
+  - **Arranged by :** Notre Dame Eco and Space Club
+  - **Venue :** Notre Dame College, Dhaka
+  - **Date :** October, 2026
+
 ---
 ## 2027
 
