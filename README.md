@@ -114,7 +114,7 @@ Listing all my Achievements.
 - **Format :** Online
 - **Date :**
 
-> <font size="7"><b>☉ 5^{th} Notre Dame Intra College Science Competition 2026</b></font>
+> <font size="7"><b>☉ 5<sup>th<\sup> Notre Dame Intra College Science Competition 2026</b></font>
 
 ‣ **Achievements :** 2nd in Physics Olympiad
   - **Arranged by :** Notre Dame Science Club
