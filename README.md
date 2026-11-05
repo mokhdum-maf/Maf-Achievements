@@ -14,8 +14,12 @@ Listing all my Achievements.
 ## 2021 
 ---
 ## 2022 
+I studied in class 7 at Police Line Secondary School, Jashore.
+---
 ---
 ## 2023 
+I studied in class 8 at Police Line Secondary School, Jashore.
+---
 > <font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2023</b></font>
 
 ‣ **Achievements :** Regional Winner & National Participant
@@ -28,6 +32,8 @@ Listing all my Achievements.
   - **Date :**
 ---
 ##  2024 
+I studied in class 9 at Police Line Secondary School, Jashore.
+---
 > <font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2024</b></font>
 
 ‣ **Achievements :** Regional Winner(3<sup>rd</sup>), National Winner(14<sup>th</sup>) and Camper
@@ -66,6 +72,8 @@ Listing all my Achievements.
 - **Date :** 20th of Nov 2024
 ---
 ## 2025
+I studied in class 10 at Police Line Secondary School, Jashore.
+---
 > <font size="7"><b>☉ Apex Astro Olympiad 2025 </b></font>
 
 ‣ **Achievements :** National Winner, Camper & Champion in Camp
@@ -104,6 +112,8 @@ Listing all my Achievements.
   - **Date : %%%, 2025**
 ---
 ## 2026
+I passed the SSC exam amd completed my high school education from Police Line Secondary School, Jashore. I admitted into Notre Dame College, Dhaka as a 11 grade student.
+---
 
 > <font size="7"><b>☉ Beamline for Schools (BL4S) 2026</b></font>
 
