@@ -76,8 +76,9 @@ I studied in class 9 at Police Line Secondary School, Jashore.
 - **Team Members :** Md Mokhdum Amin Fahim, Shihab Mahmud Shoumo, Afeid AI Radit & Tanzim Mahamud Ohi
 - **Format :** Online
 - **Date :** 20th of Nov 2024
----
----
+
+--- 
+
 ## 2025
 
 I studied in class 10 at Police Line Secondary School, Jashore.
@@ -151,7 +152,7 @@ I passed the SSC exam and completed my secondary education at Police Lines Secon
   - **Date :** October, 2026
 
 ---
----
+
 ## 2027
 
 > <font size="7"><b>☉ Loading... </b></font>
