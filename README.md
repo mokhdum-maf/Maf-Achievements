@@ -11,6 +11,14 @@ Listing all my Achievements.
 ## 2020 
 ---
 ## 2021 
+
+I studied in class 6 at Police Line Secondary School, Jashore.
+---
+> <font size="7"><b>☉ Artivism : Climate Change through My Eyes (আর্টিভিজম : আমার চোখে জলবায়ু পরিবর্তন) </b></font>
+
+‣ **Achievements :** One of the 10 best national photographers
+- Category : Group A (ক বিভাগ)
+- Date : September, 2021
 ---
 ## 2022 
 
