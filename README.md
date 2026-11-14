@@ -161,7 +161,7 @@ I passed the SSC exam and completed my secondary education at Police Lines Secon
   - **Venue :** Bangladesh Space Research and Remote Sensing Organization (SPARRSO)
   - **Date :**
 - ***Selected for International Olympiads***
-  - **Selected for :** Open World Astronomy Olympiad (OWAO) ,Russia & International Astronomy Olympiad (IAO), Uzbakistan
+  - **Selected for :** Open World Astronomy Olympiad (OWAO) ,Russia & International Astronomy Olympiad (IAO), Uzbekistan
   - **Participation :** Refused to participate
 ---
 
