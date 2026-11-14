@@ -217,7 +217,7 @@ I studied in class 4 at Police Line Secondary School, Jashore.
 
 > <font size="7"><b>☉ Children and Youth Drawing Competition 2019 </b></font>
 
-‣ **Achievements :**
+‣ **Achievements :** 1st Place
 - Category : Group C (গ বিভাগ)
 - **Arranged by :** New Life Fine Art School, Jashore
 - **Date :**
@@ -227,6 +227,15 @@ I studied in class 4 at Police Line Secondary School, Jashore.
 I studied in class 3 at Police Line Secondary School, Jashore.
 
 ---
+
+> <font size="7"><b>☉ Drawing and Hand Writing Compitition </b></font>
+
+‣ **Achievements :** 20th Place in Drawing
+- Category : Group B (খ বিভাগ)
+- **Arranged by :** Suvro Dental Care, Jashore
+- **Date :**
+---
+
 
 ## 2017
 
