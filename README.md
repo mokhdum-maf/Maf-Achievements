@@ -13,6 +13,7 @@ Listing all my Achievements.
 ## 2021 
 
 I studied in class 6 at Police Line Secondary School, Jashore.
+
 ---
 > <font size="7"><b>☉ Artivism : Climate Change through My Eyes (আর্টিভিজম : আমার চোখে জলবায়ু পরিবর্তন) </b></font>
 
@@ -33,13 +34,13 @@ I studied in class 8 at Police Line Secondary School, Jashore.
 ---
 > <font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2023</b></font>
 
-‣ **Achievements :** Regional Winner & National Participant
+‣ **Achievements :** Regional Winner(2nd) & National Participant
 - Category : B
 - ***Regional Round***
-  - **Venue :**
-  - **Date :**
+  - **Venue :** Jashore Zilla School. (Jashore Region-Khulna Division)
+  - **Date :** February, 2023
 - ***National Round***
-  - **Venue :**
+  - **Venue :** Dhaka University
   - **Date :**
 ---
 ##  2024 
@@ -49,17 +50,28 @@ I studied in class 9 at Police Line Secondary School, Jashore.
 ---
 > <font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2024</b></font>
 
-‣ **Achievements :** Regional Winner(3<sup>rd</sup>), National Winner(14<sup>th</sup>) and Camper
+‣ **Achievements :** Regional Winner(3rd), National Winner(14th) and Camper
 - Category : B
 - ***Regional Round***
-  - **Venue :** 
-  - **Date :** 
+  - **Venue :** Khulna Collegiate School, Fultola
+  - **Date :**  February, 2024
 - ***National Round***
-  - **Venue :** 
-  - **Date :** 
+  - **Venue :**  American International University, Bangladesh (AIUB)
+  - **Date :** 23 February, 2024
 - ***Camp Participation***
   - BdPhO Online Camp
+---
+> <font size="7"><b>☉ Bangladesh Mathematical Olympiad (BdMO) 2024 </b></font>
 
+‣ **Achievements :** Regional Winner(First Runners-up), National Participant
+- Category : 
+- ***Regional Round***
+  - **Venue :**
+  - **Date :**
+- ***Regional Round***
+  - **Venue :**
+  - **Date :** 01 March, 2024
+---
 > <font size="7"><b>☉ Bangladesh Junior Science Olympiad (BdJSO) 2024 </b></font>
 
 ‣ **Achievements :** National Winner, Camp Selection Test Winner & Selected for Team Selection Camp
@@ -96,14 +108,14 @@ I studied in class 10 at Police Line Secondary School, Jashore.
 ‣ **Achievements :** National Winner, Camper & Champion in Camp
 - Category : Junior
 - ***Regional Round***
-  - **Venue :**
-  - **Date :**
+  - **Venue :** Military Collegiate School, Khulna
+  - **Date :** 18 July, 2025
 - ***National Selection Round***
-  - **Venue :**
-  - **Date :**
+  - **Venue :** East West University, Dhaka
+  - **Date :** 27 July, 2025
 - ***Closed Camp***
-  - **Venue :**
-  - **Date :**
+  - **Venue :** East West University, Dhaka
+  - **Date :** 29-30 July, 2025
 
 > <font size="7"><b>☉ Open World Astronomy Olympiad(OWAO) 2025 </b></font>
 
