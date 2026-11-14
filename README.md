@@ -18,8 +18,9 @@ I studied in class 6 at Police Line Secondary School, Jashore.
 > <font size="7"><b>☉ Artivism : Climate Change through My Eyes (আর্টিভিজম : আমার চোখে জলবায়ু পরিবর্তন) </b></font>
 
 ‣ **Achievements :** One of the 10 best national photographers
-- Category : Group A (ক বিভাগ)
-- Date : September, 2021
+- **Organized by :** Save the Children in Bangladesh & Kishore Alo
+- **Category :** Group A (ক বিভাগ)
+- **Date :** September, 2021
 ---
 ## 2022 
 
@@ -145,6 +146,37 @@ I studied in class 10 at Police Line Secondary School, Jashore.
 I passed the SSC exam and completed my secondary education at Police Lines Secondary School, Jashore. I was admitted to Notre Dame College, Dhaka as an 11th grade student in September.
 
 ---
+
+> <font size="7"><b>☉ East West University Astro Olympiad 2026</b></font>
+
+‣ **Achievements :** Regional Winner(1st), National Champion, Camper & Selected for 2 International Olympiads
+- Category : 
+- ***Regional Round***
+  - **Venue :**
+  - **Date :**
+- ***National Round***
+  - **Venue :** East West University, Dhaka
+  - **Date :** 
+- ***Closed Camp***
+  - **Venue :** Bangladesh Space Research and Remote Sensing Organization (SPARRSO)
+  - **Date :**
+- ***Selected for International Olympiads***
+  - **Selected for :** Open World Astronomy Olympiad (OWAO) ,Russia & International Astronomy Olympiad (IAO), Uzbakistan
+  - **Participation :** Refused to participate
+---
+
+> <font size="7"><b>☉ BAS Science Olympiad </b></font>
+
+‣ **Achievements :** Regional Winner(1st) and National Participant
+- Category : School
+- ***Regional Round***
+  - **Venue :** Jashore University of Science and Technology(JUST)
+  - **Date :** 3 January, 2026
+- ***National Round***
+  - **Venue :** Dhaka University
+  - **Date :**
+---
+
 
 > <font size="7"><b>☉ Beamline for Schools (BL4S) 2026</b></font>
 
