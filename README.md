@@ -150,7 +150,7 @@ I passed the SSC exam and completed my secondary education at Police Lines Secon
 > <font size="7"><b>☉ East West University Astro Olympiad 2026</b></font>
 
 ‣ **Achievements :** Regional Winner(1st), National Champion, Camper & Selected for 2 International Olympiads
-- Category : 
+- Category : Senior Division
 - ***Regional Round***
   - **Venue :**
   - **Date :**
