@@ -109,7 +109,16 @@ I studied in class 10 at Police Line Secondary School, Jashore.
 - ***Regional Round***
   - **Venue :**
   - **Date : %%%, 2025**
+
 ---
+
+> <font size="7"><b>☉ Bangladesh Mathematical Olympiad (BdMO) 2024 </b></font>
+
+‣ **Achievements :** Regional Winner
+- Category : 
+- ***Regional Round***
+  - **Venue :**
+  - **Date :**
 
 ##  2024 
 
@@ -136,7 +145,7 @@ I studied in class 9 at Police Line Secondary School, Jashore.
 - ***Regional Round***
   - **Venue :**
   - **Date :**
-- ***Regional Round***
+- ***National Round***
   - **Venue :**
   - **Date :** 01 March, 2024
 ---
@@ -165,6 +174,15 @@ I studied in class 9 at Police Line Secondary School, Jashore.
 - **Date :** 20th of Nov 2024
 
 ---
+> <font size="7"><b>☉ Bangladesh Biology Olympiad (BdBO) 2024 </b></font>
+
+‣ **Achievements :** Regional Winner
+- Category : 
+- ***Regional Round***
+  - **Venue :** Khulna University
+  - **Date :**
+
+---
 ## 2023 
 
 I studied in class 8 at Police Line Secondary School, Jashore.
@@ -179,8 +197,21 @@ I studied in class 8 at Police Line Secondary School, Jashore.
   - **Date :** February, 2023
 - ***National Round***
   - **Venue :** Dhaka University
+  - **Date :** 3-4 March, 2023
+
+---
+
+
+> <font size="7"><b>☉ Bangladesh Biology Olympiad (BdBO) 2023 </b></font>
+
+‣ **Achievements :** Regional Winner
+- Category : 
+- ***Regional Round***
+  - **Venue :** Khulna University
   - **Date :**
 ---
+
+
 ## 2022 
 
 I studied in class 7 at Police Line Secondary School, Jashore.
